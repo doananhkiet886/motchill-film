@@ -684,16 +684,5 @@
     }
   ],
   "users": [],
-  "searchHistorys": [
-    {
-      "search": "Sát thủ nhân tạo",
-      "userId": 1,
-      "id": 1
-    },
-    {
-      "search": "Đảo hải tặc",
-      "userId": 1,
-      "id": 2
-    }
-  ]
+  "searchHistorys": []
 }
