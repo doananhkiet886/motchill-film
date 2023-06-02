@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="shortcut icon" href="./assets/img/netflixlogo.0.0.1466448626.jfif" type="image/x-icon" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" />
+  <link rel="stylesheet" href="./assets/css/base.css" />
+  <link rel="stylesheet" href="./assets/css/main.css" />
+  <link rel="stylesheet" href="./assets/css/login_register.css">
+  <link rel="stylesheet" href="./assets/fonts/fontawesome-free-6.2.1-web/css/all.min.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet" />
+  <title>Motchill</title>
+</head>
+
+<body>
+  <div class="app">
+    <header class="header">
+      <div class="header__information">
+          <div class="header__information-logo">
+              <a class="header__information-logo__link" href="./index.html">
+                  <img src="./assets/img/logo.png">
+              </a>
+          </div>
+          <div class="header__information-search">
+              <div class="header-input">
+                  <input type="text" placeholder="VD: Tên phim">
+                  <p class="header-input__btn">
+                      <i class="fa-sharp fa-solid fa-magnifying-glass header-input__icon"></i>
+                  </p>
+              </div>
+              <div class="header__search-bridge"></div>
+              <div class="header__search-option">
+                  <div class="result__item">
+                      <a href="./waitMovie.html" class="item__name">Muốn Gặp Anh</a>
+                      <h3>Someday or One Day (2023)</h3>
+                  </div>
+                  <div class="result__item">
+                      <a href="./waitMovie.html" class="item__name">Ngày Mai Cũng Muốn Gặp Anh</a>
+                      <h3>See You Tomorrow (2022)</h3>
+                  </div>
+                  <div class="result__item">
+                      <a href="./waitMovie.html" class="item__name">Rất Muốn Ở Bên Anh</a>
+                      <h3>Be With You (2020)</h3>
+                  </div>
+                  <div class="option__footer">Tất cả kết quả tìm kiếm</div>
+              </div>
+          </div>
+          <div class="header__information-modal">
+              <ul class="header-modal_list">
+                  <li class="header-modal_item login-btn">
+                      <i class="fa-solid fa-right-to-bracket "></i>
+                      Đăng nhập
+                  </li>
+                  <li class="header-modal_item register-btn">
+                      <i class="fa-solid fa-users "></i>
+                      Đăng ký
+                  </li>
+                  <li class="header-modal_item logged-user">
+                      <i class="fa-solid fa-user-tie fa-bounce"></i>
+                      Hi,
+                      <span class="logged-user__fullname"></span>
+                      <div class="logged-user__dropdown">
+                          <p class="logged-user__email">
+                              <i class="logged-user__email-icon fa-regular fa-envelope"></i>
+                              <span class="logged-user__email-text"></span>
+                          </p>
+                          <button class="logged-user__logout-btn">Đăng xuất</button>
+                      </div>
+                  </li>
+              </ul>
+          </div>
+          <!-- <div class="header__inbox">
+              <i class="fa-regular fa-envelope"></i>
+          </div> -->
+      </div>
+
+      <!-- Header Navbar -->
+      <div class="header__navbar">
+          <div class="header__navbar-container">
+              <ul class="header__navbar-list">
+                  <li class="header__navbar-item ">
+                      <a href="./index.html" style="color: #c5855d;">TRANG CHỦ</a>
+                  </li>
+                  <li class="header__navbar-item header__navbar-item_1">
+                      <a href="#">THỂ LOẠI</a>
+                      <div class="item__category_1">
+                          <div class="category__list">
+                              <div class="category__item">
+                                  <a href="">Cổ Trang- Thần Thoại</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Võ thuật- Kiếm Hiệp</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Phiêu liêu- Hành Động</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Tâm lý tình cảm</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Khoa học- Viễn tưởng</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Hoạt hình</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Hài hước</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Văn hóa- Tâm Linh</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Lồng Tiếng</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Thuyết Minh</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Thể thao- Âm nhạc</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Kinh dị</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Gia đình - Học đường</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">TV Show</a>
+                              </div>
+                          </div>
+
+
+                      </div>
+                  </li>
+
+                  <li class="header__navbar-item header__navbar-item_2">
+                      <a href="#">QUỐC GIA</a>
+                      <div class="item__category_2">
+                          <div class="category__list">
+                              <div class="category__item">
+                                  <a href="">Việt Nam</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Hàn Quốc</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Nhật Bản</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Mỹ</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Anh</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Canada</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Nga</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Pháp</a>
+                              </div>
+                              <div class="category__item">
+                                  <a href="">Thái Lan</a>
+                              </div>
+
+                          </div>
+
+
+                      </div>
+                  </li>
+                  <li class="header__navbar-item header__navbar-item_3">
+                      <a href="#">PHIM MỚI</a>
+                      <div class="item__category_3">
+                          <div class="category__list ">
+                              <div class="category__list_3">
+                                  <a href="">Phim 2023</a>
+                              </div>
+                              <div class="category__list_3">
+                                  <a href="">Phim 2022 </a>
+                              </div>
+                              <div class="category__list_3">
+                                  <a href="">Phim 2021 </a>
+                              </div>
+                              <div class="category__list_3">
+                                  <a href="">Phim 2020</a>
+                              </div>
+                              <div class="category__list_3">
+                                  <a href="">Phim 2019</a>
+                              </div>
+                              <div class="category__list_3">
+                                  <a href="">Phim 2018</a>
+                              </div>
+                              <div class="category__list_3">
+                                  <a href="">Phim 2017</a>
+                              </div>
+                          </div>
+                      </div>
+                  </li>
+                  <li class="header__navbar-item">
+                      <a href="#">PHIM BỘ</a>
+                  </li>
+                  <li class="header__navbar-item">
+                      <a href="#">PHIM LẺ</a>
+                  </li>
+                  <li class="header__navbar-item">
+                      <a href="#">PHIM THUYẾT MINH</a>
+                  </li>
+                  <li class="header__navbar-item">
+                      <a href="#">PHIM CHIẾU RẠP</a>
+                  </li>
+                  <li class="header__navbar-item">
+                      <a href="#">TV SHOW</a>
+                  </li>
+              </ul>
+          </div>
+      </div>
+  </header>
+    <div class="container">
+      <div class="video-space">
+        <iframe class="video-player" width="560" height="315" src=""
+          title="YouTube video player" frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen></iframe>
+      </div>
+      <div class="details">
+        <div class="name">
+          <h1 itemprop="name"></h1>
+          <div class="clear"></div>
+        </div>
+        <p class="short-description"></p>
+      </div>
+      <div class="list-film">
+        <h3 class="title-box">
+          ⭐<a href="javascript:void(0)">Phim được đề xuất</a>
+        </h3>
+        <div class="wrapper">
+          <ion-icon class="btn btnBack" name="chevron-back-outline"></ion-icon>
+          <ion-icon class="btn btnNext" name="chevron-forward-outline"></ion-icon>
+
+          <ul class="carousel">
+            <li class="item">
+              <a href="#" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/citadel-11231.jpg" alt="" draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 1</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="#" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/ham-silo.jpg" alt="" draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 2</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="#" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/nguoi-mandalore-phan-3-11045.jpg" alt=""
+                  draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 3</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="#" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/nu-vuong-cleopatra-11237.jpg" alt=""
+                  draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 4</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="\" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/phu-thuy-mayfair-10866.jpg" alt=""
+                  draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="https://vietnix.vn/vps-nvme/">Phim 5</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="#" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/sweet-tooth-cau-be-gac-nai-phan-2-11217.jpg" alt=""
+                  draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 6</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="#" draggable="false">
+                <img class="item-img" src="assets/img/movieImages/tan-sat-phan-2-11157.jpg" alt="" draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 7</a>
+                </span>
+              </div>
+            </li>
+            <li class="item">
+              <a href="#">
+                <img class="item-img" src="assets/img/movieImages/tan-sat-phan-3-11229.jpg" alt="" draggable="false" />
+              </a>
+              <div class="text">
+                <span class="tittle">
+                  <a href="#">Phim 8</a>
+                </span>
+              </div>
+            </li>
+          </ul>
+        </div>
+      </div>
+      <footer class="footer">
+        <div class="grid">
+          <div class="grid__row">
+            <div class="grid__column_8">
+              <div class="footer__description">
+                <span class="footer__description-highlight">
+                  Xem phim online
+                </span>
+                <span>miễn phí chất lượng cao với phụ đề tiếng việt - thuyết minh
+                  - lồng tiếng. Mọt phim có nhiều thể loại phim phong phú, đặc
+                  sắc, nhiều bộ phim hay nhất - mới nhất.
+                </span>
+                <p>
+                  Website motphim.net với giao diện trực quan, thuận tiện, tốc
+                  độ tải nhanh, thường xuyên cập nhật các bộ phim mới hứa hẹn
+                  sẽ đem lại những trải nghiệm tốt cho người dùng.
+                </p>
+              </div>
+            </div>
+            <div class="grid__column_4">
+              <div class="footer__infomation">
+                <div class="infomation__policy">
+                  <h1>Quy định</h1>
+                  <ul class="infomation__policy-list">
+                    <li class="infomation__policy-item">
+                      <a href="#">Điều khoản chung</a>
+                    </li>
+                    <li class="infomation__policy-item">
+                      <a href="#">Chính sách riêng tư</a>
+                    </li>
+                  </ul>
+                </div>
+                <div class="infomation__introduce">
+                  <h1>Giới thiệu</h1>
+                  <ul class="infomation__introduce-list">
+                    <li class="infomation__introduce-item">
+                      <a href="#">Trang chủ</a>
+                    </li>
+                    <li class="infomation__introduce-item">
+                      <a href="#">Facebook</a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </footer>
+    </div>
+  </div>
+
+  <div class="modal">
+    <div class="modal__body"></div>
+  </div>
+
+  <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script src="base.js" defer></script>
+  <script src="./watch-movie.js" type="module"></script>
+</body>
+
+</html>

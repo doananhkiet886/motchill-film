@@ -1,0 +1,699 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "Howl's Moving Castle",
+      "url": "https://www.youtube.com/embed/H1NBPJmKgt8",
+      "img": "https://upload.wikimedia.org/wikipedia/vi/a/a0/Howls-moving-castleposter.jpg",
+      "type": "Phim hoạt hình, Phim lẻ",
+      "director": "Miyazaki Hayao",
+      "actors": [
+        "Chieko Baisho",
+        "Takuya Kimura"
+      ],
+      "durations": 119,
+      "language": "Vietsub",
+      "year": 2004,
+      "national": "Nhật Bản",
+      "description": "Sophie (Emily Mortimer) có một cuộc sống bình yên tại cửa hàng mũ của người cha quá cố, nhưng tất cả thay đổi khi cô kết bạn với phù thủy Howl (Christian Bale), người sống trong một lâu đài bay kỳ diệu. Tuy nhiên, mụ phù thủy độc ác của Wasteland (Lauren Bacall) có vấn đề với mối quan hệ mới chớm nở của họ và bỏ bùa mê cô bé Sophie khiến cô già đi sớm. Bây giờ Howl phải sử dụng tất cả tài năng phép thuật của mình để chiến đấu với mụ phù thủy ghen tuông và trả lại cho Sophie vẻ đẹp và tuổi trẻ trước đây."
+    },
+    {
+      "id": 2,
+      "name": "Sát Thủ Nhân Tạo ",
+      "url": "https://www.youtube.com/embed/UTJah2EMzto",
+      "img": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE97h1eFzed7wUbF5I9yxOGO1kYg9RaQVEpXUdVe38xwtDtaYZ",
+      "type": "Phiêu Liêu, Hành Động",
+      "director": "Park Hoon Jung",
+      "actors": [
+        "Kim_Da-mi",
+        "Choi Woo-shik"
+      ],
+      "durations": 125,
+      "language": "Vietsub",
+      "year": 2018,
+      "national": "Hàn Quốc",
+      "description": "Sát Thủ Nhân Tạo là bộ phim hành động li kì kể về Koo Ja-yoon – một cô bé được nuôi dưỡng trong một tổ chức đáng sợ – nơi diễn ra các cuộc thí nghiệm y học được thực hiện trên chính cơ thể con người nhằm biến họ thành những cỗ máy giết người. Sau khi chạy trốn khỏi tổ chức, Ja-yoon bị mất trí nhớ và được một cặp vợ chồng già nhận nuôi. 10 năm sau, khi đã trở thành một nữ sinh trung học, Ja-yoon đăng ký tham gia một cuộc thi âm nhạc với mong muốn giúp gia đình vượt qua khó khăn tài chính. Nhưng cô không ngờ rằng, ngay từ khi hình ảnh của mình xuất hiện trên truyền hình, cuộc sống của cô bị đảo lộn hoàn toàn bởi sự truy đuổi của những kẻ lạ mặt."
+    },
+    {
+      "id": 3,
+      "name": "Your name",
+      "url": "https://www.youtube.com/embed/69zz9sAZsY0",
+      "img": "https://i.mpcdn.top/poster/ten-cau-la-gi-842.jpg?1576724620",
+      "type": "Phim hoạt hình, Phim lẻ",
+      "director": "Shinkai Makoto",
+      "actors": [
+        "Kamiki Ryunosuke",
+        "Kamishiraishi Mone"
+      ],
+      "durations": 107,
+      "language": "Vietsub",
+      "year": 2016,
+      "National": "Nhật Bản",
+      "description": "Tên Cậu Là Gì - Your Name kể về Mitsuha – nữ sinh trung học sống ở một thị trấn nhỏ của vùng Itomori. Luôn chán chường với cuộc sống tẻ nhạt ở vùng thôn quê, Mitsuha ao ước kiếp sau được làm một anh chàng đẹp trai sống ở thủ đô Tokyo sôi động. Trong khi đó ở Tokyo, anh chàng Taki rất hài lòng với cuộc sống và công việc làm thêm ở một nhà hàng Italy sau giờ học. Tuy vậy, hằng đêm cậu vẫn mơ thấy mình trong cơ thể một cô gái thôn quê. Đến một hôm khi sự kiện nghìn năm có một là Sao Chổi tiến gần tới Trái đất, Taki và Mitsuha bỗng bị hoán đổi cơ thể. Cứ cách một ngày, Taki lại trở thành Mitsuha khám phá cuộc sống vùng quê và ngược lại, Mitsuha làm anh chàng nam sinh Tokyo háo hức với cuộc sống nơi đô thị ồn ào. Cứ thế, câu chuyện của Mitsuha và Taki diễn ra dẫn dắt khán giả đến những tình huống đặc biệt, dù cả hai chưa bao giờ gặp mặt hay thậm chí là biết tên của nhau."
+    },
+    {
+      "id": 4,
+      "name": "Fabricated City",
+      "url": "https://www.youtube.com/embed/4jCXV_2Ewvs",
+      "img": "https://i0.wp.com/cdn.phimbo.info/images/poster-thanh-pho-ao.jpg",
+      "type": "Phim lẻ, Phim Hành Động",
+      "director": "Park Kwang-hyun",
+      "actors": [
+        "Ji Chang-wook",
+        "Shim Eun-kyung",
+        "Ahn Jae-hong"
+      ],
+      "durations": 126,
+      "language": "Vietsub",
+      "year": 2017,
+      "national": "Hàn Quốc",
+      "description": "Sau khi Kwon, một game thủ đặc biệt, bị đổ tội giết người, anh ta cùng với các đồng minh của mình quyết định tìm ra thủ phạm thực sự và chứng minh mình vô tội."
+    },
+    {
+      "id": 5,
+      "name": "Đảo Hải Tặc (Lễ hội hải tăc)",
+      "url": "https://www.youtube.com/embed/XvQ9ytmVNws",
+      "img": "https://phimmoi4s.com/files/product/dao-hai-tac-le-hoi-hai-tac-2019-epsucozs.jpg",
+      "type": "Hành Động , Phiêu Lưu",
+      "director": "Takashi Otsuka",
+      "actors": [
+        "Mayumi Tanaka"
+      ],
+      "durations": 101,
+      "language": "Vietsub",
+      "year": 2019,
+      "national": "Nhật Bản",
+      "description": "Băng Mũ Rơm cùng Luffy và vô số hải tặc trên thế giới nhận lời mời đến lễ hội Hải Tặc để Tranh đoạt chìa khóa dẫn đến kho báu Vua Hải tặc do Buena Festa tổ chức. Ngay cả tên quái vật Douglas Bullet biệt danh. Hậu duệ của quỷ cũng tham chiến. Hơn thế nữa, với mong muốn tóm gọn Hải tặc, đội ngũ Hải Quân cũng bí mật tham gia. Những thế lực mạnh nhất đều góp mặt trong đại chiến."
+    },
+    {
+      "id": 6,
+      "name": "Intruder",
+      "url": "https://www.youtube.com/embed/fSWFUFdV5TU",
+      "img": "https://upload.wikimedia.org/wikipedia/en/d/de/Intruder_2020_film.jpg",
+      "type": "Phim chiếu rạp, Bí ẩn - Siêu nhiên",
+      "director": "Son Won Pyung",
+      "actors": [
+        "Song Ji Hyo",
+        "Kim Mu Yeol"
+      ],
+      "durations": 104,
+      "language": "Vietsub",
+      "year": 2020,
+      "national": "Hàn Quốc",
+      "description": "Kẻ xâm nhập là một bộ phim kinh dị bí ẩn của Hàn Quốc năm 2020 do Sohn Won-pyung viết kịch bản và đạo diễn, với sự tham gia của Song Ji-hyo và Kim Mu-yeol. Câu chuyện kể về Yoo-jin trở về nhà sau khi mất tích 25 năm trước."
+    },
+    {
+      "id": 7,
+      "name": "Conan: The Scarlet Bullet",
+      "url": "https://www.youtube.com/embed/HSow7Ep6l_4",
+      "img": "https://animotaku.fr/wp-content/uploads/2021/02/film-detective-conan-the-scarlet-bullet-visuel.jpeg",
+      "type": "Hoạt hình, Hành động, Hài hước, Thám Tử",
+      "director": "Tomoka Nagaoka",
+      "actors": [
+        "atsuko-tanaka"
+      ],
+      "durations": 110,
+      "language": "Vietsub",
+      "year": 2021,
+      "national": "Nhật Bản",
+      "description": "Là Movie thứ 24 của Series Detective Conan"
+    },
+    {
+      "id": 8,
+      "name": "Train To Busan",
+      "url": "https://www.youtube.com/embed/aiG5s2Lsv_Y",
+      "img": "https://image.tmdb.org/t/p/w1280/6B9HaZYBG1ugyd5g6at6F3n4wOw.jpg",
+      "type": "Hành Động, Kinh Dị, Tình Cảm, Xác Sống",
+      "director": "Yeon Sang-ho",
+      "actors": [
+        "Gong Yoo",
+        "Ma Dong-seok"
+      ],
+      "durations": 118,
+      "language": "Vietsub",
+      "year": 2016,
+      "national": "Hàn Quốc",
+      "description": "Một người đàn ông cùng con gái và nhiều hành khách khác bị kẹt trên một con tàu chạy tốc độ cao khi đất nước Hàn Quốc đang phải hứng chịu một đại dịch thây ma. Bộ phim xoay quanh những người sống sót trên chuyến tàu từ Seoul đến Busan phải trải qua bao vất vả, chật vật để tới được thành phố an toàn cuối cùng sau khi Hàn Quốc bị lây nhiễm bởi một loại virus"
+    },
+    {
+      "id": 9,
+      "name": "Midnight Runners",
+      "url": "https://www.youtube.com/embed/cyVk51ksx4o",
+      "img": "https://static2.vieon.vn/vieplay-image/poster_v4/2023/03/01/hhhp8dg3_660x946-canhsattapsu.png",
+      "type": "Phim hành động",
+      "director": "Kim Joo-Hwan",
+      "actors": [
+        "Kang Ha Neul",
+        "Park Seo Joon",
+        "Seong Dong-il"
+      ],
+      "durations": 109,
+      "language": "Vietsub",
+      "year": 2017,
+      "national": "Hàn Quốc",
+      "description": "Phim Cảnh Sát Tập Sự, Midnight Runners (2017) Trong phim , hai học viên Ki-joon và Hee-yeol của Học Viện Cảnh Sát mới tốt nghiệp, chỉ biết hành động theo sách vở. Nhưng, một vụ án bắt cóc diễn ra ngay trước mắt khiến đôi tân binh ngay thức thì phải lâm trận nhằm thực hành nhiệm vụ. Bộ đôi Park Seo-Joon và Kang Ha-Neul hứa hẹn sẽ quậy phá tưng bừng trong CẢNH SÁT TẬP SỰ."
+    },
+    {
+      "id": 10,
+      "name": "Siêu lừa gặp siêu lầy",
+      "url": "https://www.youtube.com/embed/s8l6VZQH9iM",
+      "img": "https://i.mpcdn.top/c/NP2VVZr/sieu-lua-gap-sieu-lay.jpg",
+      "type": "Phiêu Lưu - Hành Động, Hài Hước, Phim Chiếu Rạp",
+      "director": "Võ Thanh Hòa",
+      "actors": [
+        "Anh Tú",
+        "Mạc Văn Khoa",
+        "Ngọc Phước",
+        "Nhật Trung"
+      ],
+      "durations": 112,
+      "language": "Tiếng việt",
+      "year": 2023,
+      "national": "Việt Nam",
+      "description": "Siêu Lừa Gặp Siêu Lầy theo chân của Khoa – tên lừa đảo tầm cỡ “quốc nội” đến đảo ngọc Phú Quốc với mong muốn đổi đời. Tại đây, Khoa gặp Tú – tay lừa đảo “hàng real” và cùng Tú thực hiện các phi vụ từ nhỏ đến lớn. Cứ ngỡ sự ranh mãnh của Tú và sự may mắn trời cho của Khoa sẽ giúp họ trở thành bộ đôi bất khả chiến bại, nào ngờ lại đối mặt với nhiều tình huống dở khóc – dở cười. Nhất là khi băng nhóm của bộ đôi nhanh chóng mở rộng vì sự góp mặt của ông Năm (Nhất Trung) và bé Mã Lai (Ngọc Phước)."
+    },
+    {
+      "id": 11,
+      "name": "Khắc tinh của quỷ",
+      "url": "https://www.youtube.com/embed/s9RC7Qhczpw",
+      "img": "https://i.mpcdn.top/c/7xPArMG/khac-tinh-cua-quy.jpg",
+      "type": "Kinh Dị - Ma, Phim Chiếu Rạp",
+      "director": "Julius Avery",
+      "actors": [
+        "Russell Crowe",
+        "Franco Nero"
+      ],
+      "durations": 104,
+      "language": " Vietsub",
+      "year": 2023,
+      "national": "Âu - Mỹ",
+      "description": "Khắc Tinh Của Quỷ lấy cảm hứng từ những hồ sơ có thật của Cha Gabriele Amorth, Trưởng Trừ Tà của Vatican, bộ phim \"The Pope's Exorcist\" theo chân Amorth trong cuộc điều tra về vụ quỷ ám kinh hoàng của một cậu bé và dần khám phá ra những bí mật hàng thế kỷ mà Vatican đã cố gắng giấu kín."
+    },
+    {
+      "id": 12,
+      "name": "Avatar",
+      "url": "https://www.youtube.com/embed/9lKfTWZUojw",
+      "img": "https://cdna.artstation.com/p/assets/images/images/031/645/214/large/shreyas-raut-avatar-2.jpg?1604210989",
+      "type": "Tâm Lý - Tình Cảm, Khoa Học - Viễn Tưởng",
+      "director": "James Cameron",
+      "actors": [
+        "Sam Worthington",
+        "Zoe Saldana"
+      ],
+      "durations": 192,
+      "language": "Vietsub",
+      "year": 2022,
+      "national": "Âu - Mỹ",
+      "description": "Lấy bối cảnh 10 năm sau những sự kiện xảy ra ở phần đầu tiên. Phim kể câu chuyện về gia đình mới của Jake Sully (Sam Worthington thủ vai) cùng những rắc rối theo sau và bi kịch họ phải chịu đựng khi phe loài người xâm lược hành tinh Pandora."
+    },
+    {
+      "id": 13,
+      "name": "Fast and Furious 9",
+      "url": "https://www.youtube.com/embed/zvrP9CDexj0",
+      "img": "https://elfinalde.s3-accelerate.amazonaws.com/2021/06/aIyqWTuf6NouKphVlxzbv9pblxQ-scaled.jpg",
+      "type": "Phim Tốc Độ, Phim phiêu Lưu",
+      "director": "Justin Lin",
+      "actors": [
+        "Vin Diesel",
+        "John Cena"
+      ],
+      "durations": 142,
+      "language": "Vietsub",
+      "year": 2021,
+      "national": "Âu - Mỹ",
+      "description": "Nối tiếp những câu chuyện từ phần trước, Dom Toretto hiện đang có một cuộc sống bình yên với người vợ Letty Ortiz và câu con trai Brian. Thế nhưng, bỗng chốc cuộc sống của anh đảo lộn khi một người đàn ông bí ẩn xuất hiện và khiêu khích anh, có gây hại đến những người thân yêu của Dom. Lần này Dom sẽ phải đối mặt với mối đe dọa và những tội lỗi trong quá khứ bắt đầu ám ảnh lấy anh. Dom cùng với những người bạn của mình chiến đấu để bảo vệ người thân yêu của mình."
+    },
+    {
+      "id": 14,
+      "name": "Góa phụ đen",
+      "url": "https://www.youtube.com/embed/SRuPLLjLu7k",
+      "img": "https://i.mpcdn.top/poster/goa-phu-den-9141.jpg?1625904987",
+      "type": "Phiêu Lưu - Hành Động, Khoa Học - Viễn Tưởng, Phim Chiếu Rạp",
+      "director": "Cate Shortland",
+      "actors": [
+        "Scarlett Johansson",
+        "Florence Pugh",
+        "David Harbour",
+        "O.T. Fagbenle",
+        "Rachel Weisz"
+      ],
+      "durations": 133,
+      "language": "Vietsub",
+      "year": 2021,
+      "national": "Âu - Mỹ",
+      "description": "Góa Phụ Đen lấy bối cảnh ngay sau sự kiện Captain America: Civil War, lần này nữ điệp viên phải đối diện với những câu hỏi đầy bí ẩn trong nguồn gốc của mình. Những câu hỏi sẽ dẫn Natasha quay trở lại Budapest, nơi cô được luyện tập để trở thành siêu điệp viên của Nga."
+    },
+    {
+      "id": 15,
+      "name": "Pororo- cuộc phiêu lưu của đến dinh thự rồng",
+      "url": "https://www.youtube.com/embed/zAz1kodqd8s",
+      "img": "https://i.ytimg.com/vi/Lsxh7P_OXLs/maxresdefault.jpg",
+      "type": "Hoạt hình, Hài hước",
+      "director": "Yoon Je-wan",
+      "actors": [
+        "Kim Hyun-ji",
+        "Kim Seo-young"
+      ],
+      "durations": 70,
+      "language": "Vietsub",
+      "year": 2022,
+      "national": "Hàn Quốc",
+      "description": "Chim cánh cụt đáng yêu Pororo sẽ trở lại vào dịp Tết này với một chuyến phiêu lưu mới. Lần này là cuộc phiêu lưu đến Dinh Thự Rồng. Tên phù thủy xấu xa Gad đang tìm cách đánh cắp 'Trái tim Rồng', một viên ngọc được phong ấn bằng sức mạnh to lớn của vua rồng nhỏ Arthur. Trong khi đó, Crong, người đã vô tình hấp thụ sức mạnh của 'Trái tim rồng', biến thành một Crong khổng lồ và khiến Pororo và những người bạn của cậu gặp nguy hiểm. Arthur, Pororo và những người bạn phải đến Dinh Thự Rồng tham gia vào trận chiến để lấy lại sức mạnh từ tay phù thủy độc ác."
+    },
+    {
+      "id": 16,
+      "name": "Camellia Sisters",
+      "url": "https://www.youtube.com/embed/IxfeXhGAa9M",
+      "img": "https://i1-giaitri.vnecdn.net/2021/03/03/gaigialamchieu-2-9502-1614772897.jpg?w=1020&h=0&q=100&dpr=1&fit=crop&s=awYExd84NQuvEvPLEKoPCg",
+      "type": "Phiếu chiếu rạp, Tâm Lý",
+      "director": "Namcito",
+      "actors": [
+        "Kaity Nguyễn",
+        "NSND Lê Khanh",
+        "NSND Hồng Vân",
+        "NSND Hoàng Dũng"
+      ],
+      "durations": 115,
+      "language": "Tiếng Việt",
+      "year": 2021,
+      "national": "Việt Nam",
+      "description": "Ba chị em đoàn tụ trong cung điện giàu có mà họ lớn lên, khi những bí mật trong gia đình họ bắt đầu được làm sáng tỏ."
+    },
+    {
+      "id": 17,
+      "name": "Big Hero 6",
+      "url": "https://www.youtube.com/embed/4Yy_92InhMI",
+      "img": "https://s1.boctem.com/wp-content/uploads/2021/03/81MjZFrGBPL._RI_.jpg",
+      "type": "Phim hoạt hình",
+      "director": "Don Hall",
+      "actors": [
+        "Ryan Potter",
+        "Scott Adsit",
+        "Jamie Chung"
+      ],
+      "durations": 102,
+      "language": "Vietsub",
+      "year": 2014,
+      "national": "Hoa Kỳ",
+      "description": "Hiro, một thần đồng người máy, chung tay với Baymax để trả thù cho cái chết của anh trai mình. Sau đó, họ hợp tác với những người bạn của Hiro để thành lập một đội gồm các anh hùng công nghệ cao."
+    },
+    {
+      "id": 18,
+      "name": "Better Days",
+      "url": "https://www.youtube.com/watch?v=1cXXo4lmFC8",
+      "img": "https://i.mpcdn.top/poster/em-cua-thoi-nien-thieu-7500.jpg?1576409524",
+      "type": "Phim chiếu rạp",
+      "director": "Tăng Quốc Tường",
+      "actors": [
+        "Dịch Dương Thiên Tỉ",
+        "Châu Đông Vũ",
+        "Châu Dã"
+      ],
+      "durations": 130,
+      "language": "Vietsub",
+      "year": 2019,
+      "national": "Trung Quốc",
+      "description": "Một học sinh trung học bị bắt nạt và một tên tội phạm nhỏ trở thành nghi phạm chính trong vụ sát hại một cô gái tuổi teen, người hóa ra lại là kẻ thù của học sinh trong kỳ thi Gaokao cấp bang."
+    },
+    {
+      "id": 19,
+      "name": "Princess Mononoke",
+      "url": "https://www.youtube.com/embed/iZLzizrKF1A",
+      "img": "https://i.mpcdn.top/poster/cong-chua-mononoke-3758.jpg?1541515340",
+      "type": "Hoạt hình, Hành Động, Phiêu lưu",
+      "director": "Hayao Miyazaki",
+      "actors": [
+        "Matsuda Yoji",
+        "Ishida Yuriko"
+      ],
+      "durations": 134,
+      "language": "Vietsub",
+      "year": 1997,
+      "national": "Nhật Bản",
+      "description": "Phim Công Chúa Mononoke - Princess Mononoke là bộ phim hoạt hình nổi tiếng do hãng Studio Ghibli sản xuất. Câu chuyện theo chân cuộc hành trình của hoàng tử cuối cùng của bộ lạc Emishi, Ashitaka và những nỗ lực của anh để mang lại hòa bình giữa những người khai thác rừng ở Pháo đài Sắt với những sinh vật thần thánh sống trong rừng xung quanh pháo đài."
+    },
+    {
+      "id": 20,
+      "name": "Miracle In Cell No.7",
+      "url": "https://www.youtube.com/watch?v=MHdBW0gSsjo",
+      "img": "https://vietsub.in/wp-content/uploads/2022/08/dieu-ky-dieu-o-phong-giam-so-7-44051-1.jpg",
+      "type": "Gia đình - Học đường",
+      "director": "Lee Hwan-Kyung",
+      "actors": [
+        "Oh Dal-su",
+        "Park Won-Sang",
+        "Park Shin Hye",
+        "Ryu Seung Ryong",
+        "Kal So Won"
+      ],
+      "durations": 127,
+      "language": "Vietsub",
+      "year": 2013,
+      "national": "Hàn Quốc",
+      "description": "Chuyện phim Điều Kỳ Diệu Trong Phòng Giam Số 7 bắt nguồn từ ngày Yong Goo bị kết án tử hình vì bị kẻ xấu vu cho tội sát nhân. Ước mơ cuối cùng của ông là được nhìn thấy con gái mình - Ye Seung. Tuy nhiên, cánh cửa nhà tù nơi ông đang bị giam giữ lại không bao giờ mở cho người nhà vào thăm. Vì vậy, những người cùng phòng giam đã lên kế hoạch để 2 cha con họ có thể hội ngộ..."
+    },
+    {
+      "id": 21,
+      "name": "Bỗng dưng trúng số",
+      "url": "https://www.youtube.com/embed/BFQrlW-VxdY",
+      "img": "https://cdn.cudem.org/2022/09/bong-dung-trung-so-thumb.jpg",
+      "type": "Phim chiếu rạp, Tình cảm, Hài hước, Tâm lý",
+      "director": "Park Gyu-Tae",
+      "actors": [
+        "Go Gyung-Pyo",
+        "Lee Yi-Kyung",
+        "Eum Moon-Suk",
+        "Park Se-Wan",
+        "Kwak Dong-Yeon"
+      ],
+      "durations": 120,
+      "language": "Vietsub",
+      "year": 2022,
+      "national": "Hàn Quốc",
+      "description": "May mắn nhặt được tờ vé số trúng thưởng trị giá 5.7 triệu đô, nhưng anh lính Hàn Quốc Chun Woo (Ko Kyoung-pyo) lại bất cẩn để tờ vé bị cuốn bay qua biên giới bên kia và rơi vào tay người lính Triều Tiên Yong Ho (Lee Yi-kyung). Ngang trái hơn, khi phát hiện đây là tấm vé độc đắc, Yong Ho đã tìm đến Chun Woo để nhờ lĩnh thưởng thay mình. Tuy nhiên, Chun Woo chỉ muốn đòi..."
+    },
+    {
+      "id": 22,
+      "name": "Chị chị em em",
+      "url": "https://www.youtube.com/embed/j3r7kq0UZMw",
+      "img": "https://upload.wikimedia.org/wikipedia/vi/c/cf/Poster_chi_chi_em_em.jpg",
+      "type": "Tình cảm, Hìa hước, Tâm lý",
+      "director": "Kathy Uyên",
+      "actors": [
+        "Chi Pu",
+        "Thanh Hằng"
+      ],
+      "durations": 104,
+      "language": "Tiếng Việt",
+      "year": 2019,
+      "national": "Việt Nam",
+      "description": "Chị Chị Em Em là một bộ phim tâm lý - giật gân khai thác câu chuyện yêu - hận - tình thù bí ẩn và lôi cuốn xoay quanh hai người phụ nữ xinh đẹp - Thiên Kim và Bảo Nhi. Chạm mặt nhau trong một trò chơi mà chỉ có một người được thắng, khi hạnh phúc của tổ ấm nhỏ sắp bị bão tố cuốn phăng, liệu ai sẽ quyết liệt đấu tranh giành lấy điều mình muốn và ai sẽ cam chịu để giữ lấy sự ấm êm? Và rồi tại những phút giây cuối cùng khi tưởng chừng như mọi việc đã ngã ngũ, một cú lừa bất ngờ bỗng được tạo nên… thì ra ~Tất cả chỉ là dối trá thôi em à...~"
+    },
+    {
+      "id": 23,
+      "name": "Exit",
+      "url": "https://www.youtube.com/embed/C1PLouY6SB4",
+      "img": "https://asianwiki.com/images/4/45/Exit_%28Korean_Movie%29-p2.jpg",
+      "type": "Phim lẻ, Hài",
+      "director": "Lee Sang-Geun",
+      "actors": [
+        "Jo Jung Suk",
+        "Im Yoon Ah"
+      ],
+      "durations": 103,
+      "language": "Vietsub",
+      "year": 2019,
+      "national": "Hàn Quốc",
+      "description": "Exit - Lối Thoát Trên Không là tác phẩm điện ảnh thuộc thể loại thảm họa hành động xoay quanh Yong Nam (Jo Jung Suk đóng) - một chàng trai trẻ giỏi leo núi nhưng mãi vẫn không tìm được việc làm. Anh tình cờ gặp lại cô bạn thời đại học Eui Joo (YoonA đóng) đang làm việc tại địa điểm tổ chức tiệc mừng thọ 70 tuổi của mẹ. Điều không ai ngờ đến là khí độc đột nhiên bùng phát và lan ra khắp thành phố, gia đình của Yong Nam bị mắc kẹt trong nhà hàng. Với kỹ năng leo núi, Yong Nam và Eui Joo quyết định hợp tác cùng nhau để sống sót khỏi thảm họa."
+    },
+    {
+      "id": 24,
+      "name": "A Werewolf Boy",
+      "url": "https://www.youtube.com/embed/1BDvZeZLSqs",
+      "img": "https://i.imgur.com/luHHskU.jpg",
+      "type": "Tâm lí, Viễn tưởng",
+      "director": "Jo Sung-Hee",
+      "actors": [
+        "Song Joong-Ki",
+        "Park Bo-Young"
+      ],
+      "durations": 111,
+      "language": "Thuyết minh",
+      "year": 2012,
+      "national": "Hàn Quốc",
+      "description": "Được triệu tập bởi một cuộc điện thoại bất ngờ, một người phụ nữ lớn tuổi đến thăm ngôi nhà mà bà từng sống khi còn nhỏ. Bà nhớ lại kỷ niệm về một chàng trai mà bà quen cách đây 47 năm."
+    },
+    {
+      "id": 25,
+      "name": "Những người vay mượn tí hon",
+      "url": "https://www.youtube.com/embed/ia4eBqLwfnY",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR4xba_W83vWM_uViD7SqussFdbWZwgAupmaiMQTokdqJpT_US",
+      "type": "Phim Hoạt hình, Phiêu lưu",
+      "director": "Hiromasa Yonebayashi",
+      "actors": [
+        "Tatsuya Fujiwara",
+        "Mirai Shida"
+      ],
+      "durations": 111,
+      "language": "Vietsub",
+      "year": 2010,
+      "national": "Nhật Bản",
+      "description": "Arrietty, một thiếu niên nhỏ bé, sống với cha mẹ trong hốc tường của một ngôi nhà ở ngoại ô, chủ nhà và người quản gia không hề hay biết. Giống như những người khác cùng loại, Arrietty vẫn ẩn mình khỏi những vật chủ là con người của mình, nhưng thỉnh thoảng mạo hiểm chui ra từ bên dưới những tấm ván sàn để mượn những viên đường và những nguồn cung cấp khác es. Một tình bạn bí mật hình thành khi Shawn 12 tuổi gặp Arrietty, nhưng mối quan hệ của họ có thể gây nguy hiểm cho gia đình Arrietty."
+    },
+    {
+      "id": 26,
+      "name": "Black Adam",
+      "url": "https://www.youtube.com/embed/dJ_1FL1dbX4",
+      "img": "https://boophim.com/media/2/black-adam-thumb.jpg?el=grid-card-xs",
+      "type": "Phim Lẻ, Chiếu Rạp, Hành Động, Thần Thoại",
+      "director": "Jaume Collet-Serra",
+      "actors": [
+        "Dwayne Johnson",
+        "Pierce Brosnan",
+        "Sarah Shahi"
+      ],
+      "durations": 118,
+      "language": "Vietsub",
+      "year": 2022,
+      "national": "Hoa Kỳ",
+      "description": "Sau khi được ban cho sức mạnh thần thánh của các vị thần Ai Cập và trải qua gần 5000 năm trong một nhà bảo vệ, Black Adam được giải thoát và anh quyết định giải phóng phong cách công lý của chính mình cho thế giới."
+    },
+    {
+      "id": 27,
+      "name": "Hai Phượng",
+      "url": "https://www.youtube.com/embed/R0iE6dXnhPQ",
+      "img": "https://i.mpcdn.top/poster/hai-phuong-6686.jpg?1558536952",
+      "type": "Gia đình, Hành động",
+      "director": "Lê Văn Kiệt",
+      "actors": "Ngô Thanh Vân",
+      "durations": 98,
+      "language": "Tiếng Việt",
+      "year": 2019,
+      "national": "Việt Nam",
+      "description": "Hai Phượng kể về cuộc hành trình đầy gay cấn và gian của khi người mẹ vùng quê tìm cách cứu con mình thoát khỏi đường dây bắt cóc khổng lồ. Không tấc sắc trong tay, người phụ nữ thân cô thế cô làm sao chống lại bọn xã hội đen tàn ác để giành lại nguồn sống của đời mình?"
+    },
+    {
+      "id": 28,
+      "name": "Parasite",
+      "url": "https://www.youtube.com/embed/s4j2yDTQ3Ew",
+      "img": "https://i.mpcdn.top/poster/ky-sinh-trung-7102.jpg?1565415973",
+      "type": "Gia đình, Tâm lý",
+      "director": "Bong Joon-Ho",
+      "actors": [
+        "Song Kang-ho",
+        "Lee Sun-kyun",
+        "Cho Yeo-jeong",
+        "Choi Woo-shik",
+        "Park So-dam"
+      ],
+      "durations": 132,
+      "language": "Vietsub",
+      "year": 2019,
+      "national": "Hàn Quốc",
+      "description": "Gia đình Kim đang gặp khó khăn nhìn thấy cơ hội khi cậu con trai bắt đầu làm việc cho gia đình họ Park giàu có. Chẳng mấy chốc, tất cả bọn họ đều tìm cách làm việc trong cùng một hộ gia đình và bắt đầu sống một cuộc sống ký sinh."
+    },
+    {
+      "id": 29,
+      "name": "Mắt biếc",
+      "url": "https://www.youtube.com/embed/u6TQ7hkKJiY",
+      "img": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSyJIhnVr0-XIB5GTKF6hfcy2XmJPWKCyL2EUE94XfoXmkllle1",
+      "type": "Tình cảm",
+      "director": "Victor Vũ",
+      "actors": [
+        "Trần Nghĩa",
+        "Trúc Anh"
+      ],
+      "durations": 117,
+      "language": "Tiếng Việt",
+      "year": 2019,
+      "national": "Việt Nam",
+      "description": "Trải qua nỗi đau và sự phản bội, tình yêu đơn phương của một chàng trai trẻ dành cho người bạn thân thời thơ ấu của mình tồn tại qua một thế hệ trong mối tình lãng mạn sâu rộng này."
+    },
+    {
+      "id": 30,
+      "name": "Annabelle",
+      "url": "https://www.youtube.com/embed/J2bVXr9NQ0o",
+      "img": "https://upload.wikimedia.org/wikipedia/en/9/90/Annabelle_film_poster.jpg",
+      "type": "Kinh dị, Huyền bí",
+      "director": "John R.Leonetti",
+      "actors": [
+        "Annabelle Wallis",
+        "Ward Horton"
+      ],
+      "durations": 99,
+      "language": "Vietsub",
+      "year": 2014,
+      "national": "Hoa Kỳ",
+      "description": "Annabelle là một bộ phim kinh dị siêu nhiên của Mỹ năm 2014 do John R. Leonetti đạo diễn, Gary Dauberman viết kịch bản và Peter Safran và James Wan sản xuất. Đây là phần tiền truyện của bộ phim The Conjuring năm 2013 và là phần thứ hai trong loạt phim The Conjuring Universe."
+    },
+    {
+      "id": 31,
+      "name": "Alice in Wonderland",
+      "url": "https://www.youtube.com/embed/Ew6iA90ICyg",
+      "img": "https://mephimtv2.com/wp-content/uploads/2022/04/alice-o-xu-so-than-tien-thumb.jpg",
+      "type": "Hành động, Viễn tưởng",
+      "director": "Tim Burton",
+      "actors": [
+        "Johnny Depp",
+        "Helena Bonham Carter",
+        "Mia Wasikowska"
+      ],
+      "durations": 108,
+      "language": "Vietsub",
+      "year": 2010,
+      "national": "Âu - Mỹ",
+      "description": "Alice, hiện 19 tuổi, theo chân một chú thỏ mặc áo khoác màu xanh đến một xứ sở thần tiên kỳ diệu từ những giấc mơ của cô, nơi cô được đoàn tụ với những người bạn của mình, những người đã giúp cô nhận ra định mệnh thực sự của mình."
+    },
+    {
+      "id": 32,
+      "name": "Wonder Woman 1984",
+      "url": "https://www.youtube.com/embed/iBrqIIfTZx4",
+      "img": "https://upload.wikimedia.org/wikipedia/en/4/4f/Wonder_Woman_1984_poster.png",
+      "type": "Hành động, Viễn tưởng",
+      "director": "Patty Jenkins",
+      "actors": [
+        "Chris Pine",
+        "Kristen Wiig"
+      ],
+      "durations": 151,
+      "language": "Thuyết minh",
+      "year": 2020,
+      "national": "Hoa Kỳ",
+      "description": "Wonder Woman thấy mình phải chiến đấu với hai đối thủ, Maxwell Lord, một doanh nhân khôn ngoan và Barbara Minerva, một người bạn trở thành thù. Trong khi đó, cô ấy cũng kết thúc những con đường với tình yêu của mình."
+    },
+    {
+      "id": 33,
+      "name": "Wolf Children",
+      "url": "https://www.youtube.com/embed/tkVHaFgBh9I",
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt9eyBTSQKT046KVw4JqBy_lC-LSgkW5eZ382LHYMFw31zSIA4",
+      "type": "Phim hoạt hình",
+      "director": "Mamoru Hosoda",
+      "actors": "Miyazaki Aoi",
+      "durations": 117,
+      "language": "Vietsub",
+      "year": 2012,
+      "national": "Nhật Bản",
+      "description": "Hana kết hôn với một người sói và nuôi hai đứa con một mình sau khi anh ta chết. Họ chuyển đến vùng nông thôn và bọn trẻ có những cuộc phiêu lưu trong rừng và ở trường."
+    },
+    {
+      "id": 34,
+      "name": "Inseparable Bros",
+      "url": "https://www.youtube.com/embed/1zFhzQTd0XY",
+      "img": "https://i.mpcdn.top/poster/thang-em-ly-tuong-6954.jpg?1562138109",
+      "type": "Gia Đình, Hài Hước",
+      "director": "Yook Sang-Hyo",
+      "actors": [
+        "Lee Kwang-soo",
+        "Shin Ha-kyun"
+      ],
+      "durations": 113,
+      "language": "Vietsub",
+      "year": 2019,
+      "national": "Hàn Quốc",
+      "description": "Se-Ha thông minh nhưng phải ngồi xe lăn, trong khi Dong-Goo cao lớn và lực lưỡng nhưng có trí tuệ ở độ tuổi lên 5. Mặc dù không có quan hệ huyết thống, Se-Ha và Dong-Goo định hướng cuộc sống của họ bằng cách điền vào mỗi khuyết điểm của người khác."
+    },
+    {
+      "id": 35,
+      "name": "Mười: Lời nguyền trở lại",
+      "url": "https://www.youtube.com/embed/g2kCEd39aJw",
+      "img": "https://ghienphim4.net/uploads/muoi-loi-nguyen-tro-lai.jpg?v=1661490096",
+      "type": "Kinh dị, Phim chiếu rạp",
+      "director": "Hằng Trịnh",
+      "actors": [
+        "Chi Pu",
+        "Hồng Ánh",
+        "Bình Minh",
+        "Anh Thư"
+      ],
+      "durations": 95,
+      "language": "Tiếng Việt",
+      "year": 2022,
+      "national": "Việt Nam",
+      "description": "Linh và Hằng là từng đôi bạn thân cho tới khi Linh nảy sinh tình cảm với Kiệt, bạn trai Hằng. Hai cô gái trở nên mâu thuẫn và cắt đứt mối quan hệ. Sau khi Kiệt chết, cả hai nối lại liên lạc, Hằng rủ người bạn cũ về nhà chơi. Nhà cô vốn là một ngôi biệt thự cổ, trưng bày nhiều tranh, trong đó có cả bức tranh Mười ai oán năm xưa. Suốt thời gian Linh ở trong nhà, nhiều chuyện kỳ bí và rùng rợn bắt đầu xảy ra."
+    },
+    {
+      "id": 36,
+      "name": "Girl From The Past",
+      "url": "https://www.youtube.com/embed/YUj-LJGgWiM",
+      "img": "https://ghienphim4.net/uploads/co-gai-tu-qua-khu.jpg?v=1664454216",
+      "type": "Tâm lý, Bí ẩn, Hồi hộp",
+      "director": "Bảo Nhân",
+      "actors": [
+        "Katy Nguyễn",
+        "Ninh Dương Lan Ngọc"
+      ],
+      "durations": 105,
+      "language": "Tiếng Việt",
+      "year": 2022,
+      "national": "Việt Nam",
+      "description": "Đang tất bật chuẩn bị cho đám cưới triệu đô cùng chàng Jack điển trai, đại mỹ nhân showbiz Ms. Q/Hoàng Quyên (Ninh Dương Lan Ngọc) bất ngờ mất tích một cách bí ẩn ngay sau khi gặp lại Quỳnh Yên (Kaity Nguyễn), một người bạn đã mất liên lạc từ 15 năm trước. Ngay lập tức, các rắc rối liên tục ập đến, kéo theo những bí mật đen tối của cả hai dần bị lột trần. Bất kể cô ta có nói gì thì cũng nên nhớ: Đừng tin lời cô ta nói!"
+    },
+    {
+      "id": 37,
+      "name": "Gió nổi",
+      "url": "https://www.youtube.com/embed/jtyrduUmB54",
+      "img": "https://boophim.com/media/3/gio-noi-thumb.jpg?el=grid-card-xs",
+      "type": "Phim hoạt hình",
+      "director": "Miyazaki Hayao",
+      "actors": [
+        "Anno Hideaki",
+        "Takimoto Miori"
+      ],
+      "durations": 126,
+      "language": "Vietsub",
+      "year": 2013,
+      "national": "Nhật Bản",
+      "description": "Tình yêu bay suốt đời đã truyền cảm hứng cho kỹ sư hàng không Nhật Bản Jiro Horikoshi (Hideaki Anno), người có sự nghiệp lâu đời bao gồm việc chế tạo máy bay chiến đấu A6M trong Thế chiến II."
+    },
+    {
+      "id": 38,
+      "name": "Đặc vụ xuyên quốc gia",
+      "url": "https://www.youtube.com/embed/t0ixlAp4BSU",
+      "img": "https://upload.wikimedia.org/wikipedia/en/5/54/Confidential_Assignment_2%3B_International.jpg",
+      "type": "Phim lẻ, Hành động",
+      "director": "Lee Seok-hoon",
+      "actors": [
+        "Huyn Bin",
+        "Yoop Hae-jin",
+        "Im Yoon-ah",
+        "Daniel henney",
+        "Jin Soen-kyu"
+      ],
+      "durations": 130,
+      "language": "Vietsub",
+      "year": 2022,
+      "national": "Hàn Quốc",
+      "description": "Tiếp theo phần 1: Confidential Assignment. Theo chân Im Chul Ryung quay trở lại Hàn Quốc để truy đuổi một tổ chức tội phạm tàn bạo và bí mật. Anh ấy hợp tác một lần nữa với Kang Jin Tae, người tình nguyện làm việc với Triều Tiên để trở lại đội điều tra sau khi phạm sai lầm khiến anh ấy bị điều chuyển qua bộ phận tội phạm mạng."
+    },
+    {
+      "id": 39,
+      "name": "The Conjuring",
+      "url": "https://www.youtube.com/embed/rnXQi1uz-PY",
+      "img": "https://upload.wikimedia.org/wikipedia/vi/1/1f/Conjuring_poster.jpg",
+      "type": "Phim kinh dị",
+      "director": "James Wan",
+      "actors": [
+        "Patrick Wilson",
+        "Vera Farmiga"
+      ],
+      "durations": 112,
+      "language": "Vietsub",
+      "year": 2013,
+      "national": "Âu - Mỹ",
+      "description": "Gia đình Perron chuyển đến một trang trại, nơi họ trải qua những hiện tượng huyền bí. Họ tham khảo ý kiến ​​của các nhà quỷ học, Ed và Lorraine Warren, để giúp họ thoát khỏi thực thể xấu xa đang ám ảnh họ."
+    }
+  ],
+  "users": [],
+  "searchHistorys": [
+    {
+      "search": "Sát thủ nhân tạo",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "search": "Đảo hải tặc",
+      "userId": 1,
+      "id": 2
+    }
+  ]
+}

@@ -1,0 +1,159 @@
+.modal {
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    z-index: 5;
+    background-color: rgba(0, 0, 0, 0.6);
+    display: none;
+}
+
+.modal--show {
+    display: block;
+}
+
+.modal__body {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    animation: fadeIn linear 0.1s;
+
+    --growth-from:0.5;
+    --growth-to: 1;
+    background-color: #fff;
+    margin: auto;
+    z-index: 2;
+    border-radius: 4px;
+    animation: growth linear 0.1s;
+}
+
+.form {
+    font-family: 'Open Sans', sans-serif;
+    width: 500px;
+    min-height: 100px;
+    padding: 32px 24px;
+    text-align: center;
+    background: #fff;
+    border-radius: 2px;
+    margin: 24px;
+    align-self: center;
+    box-shadow: 0 2px 5px 0 rgba(190, 195, 199, 0.1);
+}
+.form .heading {
+    font-size: 2rem;
+}
+.form .desc {
+    text-align: center;
+    color: #636d77;
+    font-size: 1.6rem;
+    font-weight: lighter;
+    line-height: 2.4rem;
+    margin: 16px 0;
+    font-weight: 300;
+}
+
+.form-group {
+    display: flex;
+    margin-bottom: 16px;
+    flex-direction: column;
+}
+
+.form-label,
+.form-message {
+    text-align: left;
+}
+
+.form-label {
+    font-weight: 700;
+    padding-bottom: 6px;
+    line-height: 1.8rem;
+    font-size: 1.4rem;
+}
+
+.form-control {
+    height: 40px;
+    padding: 8px 12px;
+    border: 1px solid #b3b3b3;
+    border-radius: 3px;
+    outline: none;
+    font-size: 1.4rem;
+}
+.item__category_1 {
+  width: 76%;
+  background-color: #2d2d2d;
+  position: absolute;
+  top: 35px;
+  left: 133px;
+  z-index: 2;
+  display: none;
+}
+.form-control:hover {
+    border-color: #1dbfaf;
+}
+
+.form-group.invalid .form-control {
+    border-color: #f33a58;
+}
+
+.form-group.invalid .form-message {
+    color: #f33a58;
+}
+
+.form-message {
+    font-size: 1.2rem;
+    line-height: 1.6rem;
+    padding: 4px 0 0;
+}
+
+.form-submit {
+    outline: none;
+    background-color: #1dbfaf;
+    margin-top: 12px;
+    padding: 12px 16px;
+    font-weight: 600;
+    color: #fff;
+    border: none;
+    width: 100%;
+    font-size: 14px;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-bottom: 40px;
+}
+
+.form-submit:hover {
+    background-color: #1ac7b6;
+}
+
+
+.form-error {
+    padding: 12px;
+    margin-bottom: 16px;
+    font-size: 1.2rem;
+    color: #FE3B30;
+    background-color: #FFF0EF;
+    display: none;
+    align-items: center;
+}
+
+.form.form--error .form-error {
+    display: flex;
+}
+
+.form-error-icon {
+    font-size: 1.6rem;
+}
+
+.form-error-text {
+    margin-left: 6px;
+}
+
+.img_register{
+    height:58px;
+    width: 107px;
+    position: absolute;
+    top: 51px;
+    left: 43px;
+}
